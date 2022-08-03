@@ -22,9 +22,6 @@
   "jest": {
     "preset": "react-native"
   },
-  "peerDependencies": {
-    "react-native": "0.65.1"
-  },
   "files": [
     "index.d.ts",
     "index.js",
